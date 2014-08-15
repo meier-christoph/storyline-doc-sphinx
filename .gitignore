@@ -1,0 +1,6 @@
+
+# Sphinx
+_build/
+
+# OS X
+.DS_Store
