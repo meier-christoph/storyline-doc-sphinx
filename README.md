@@ -6,5 +6,5 @@ Official documentation for storyline.lu hosted at storyline.rtfd.org or doc.stor
 Requirements
 ------------
 
-python v2.7+
-python-sphinx v1.2+
+- python v2.7+
+- python-sphinx v1.2+
